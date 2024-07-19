@@ -366,7 +366,7 @@ footer {
   padding: 0 80px;
   justify-content: space-between;
   align-items: center;
-  box-shadow: 0px -4px 8px rgba(0, 0, 0, 0.1);
+  box-shadow: 0px -2px 4px rgba(0, 0, 0, 0.1);
 }
 
 footer img {
@@ -390,10 +390,6 @@ footer p {
 .logo-berkeley {
   transform: scale(1.5);
   margin-right: 50px;
-}
-
-.container.home footer {
-  margin-top: -70px;
 }
 
 /*------------------------END FOOTER-----------------------*/
