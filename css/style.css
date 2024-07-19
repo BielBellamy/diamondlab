@@ -1317,9 +1317,7 @@ footer p {
 /*----------------------------------------TEAM PAGE---------------------------------------*/
 /*----------------SECTION IMAGE----------------*/
 .section-photolab {
-  margin-top: 0px;
-  margin: 70px 50px 0 50px;
-  padding-top: 40px;
+  margin: 90px 50px 0 50px;
   position: relative;
   z-index: 1;
 }
@@ -1338,7 +1336,7 @@ footer p {
   height: auto;
   top: -50px;
   overflow: hidden;
-  margin-bottom: 30px;
+  margin: -10px 0;
 }
 
 .video-background video {
