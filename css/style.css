@@ -962,6 +962,12 @@ footer p {
   padding: 0;
 }
 
+.publications .pub-title {
+  font-weight: 600;
+  color: rgb(0, 95, 167);
+  padding: 6px 0;
+}
+
 .publication-item {
   display: flex;
   align-items: flex-start;
