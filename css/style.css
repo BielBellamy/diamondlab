@@ -962,6 +962,7 @@ footer p {
   padding: 0;
 }
 
+.research-pubs .pub-title,
 .publications .pub-title {
   font-weight: 600;
   color: rgb(0, 95, 167);
