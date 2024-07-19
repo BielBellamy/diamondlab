@@ -837,13 +837,14 @@ footer p {
 
 .container-research img {
   margin-bottom: 18px;
-  width: 900px;
+  width: 1000px;
   height: auto;
-  align-self: center;
+  margin-left: 100px;
 }
 
 .container-research img.cm_fig5 {
-  width: 600px;
+  width: 500px;
+  margin-left: 300px;
 }
 
 .container-research .funding-logos {
