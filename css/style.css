@@ -1294,8 +1294,8 @@ footer p {
 
 .projcard-tag {
   display: inline-block;
-  background: #e0e0e0;
-  color: #777;
+  background: rgb(0, 119, 245, 0.3);
+  color: rgb(0, 95, 167);
   border-radius: 3px 0 0 3px;
   line-height: 26px;
   padding: 0 16px 0 12px;
@@ -1322,7 +1322,7 @@ footer p {
   content: "";
   position: absolute;
   border-bottom: 13px solid transparent;
-  border-left: 10px solid #e0e0e0;
+  border-left: 10px solid rgb(0, 119, 245, 0.3);
   border-top: 13px solid transparent;
   right: -10px;
   top: 0;
