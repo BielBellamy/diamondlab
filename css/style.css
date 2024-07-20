@@ -872,13 +872,15 @@ footer p {
 }
 
 .funding-logos {
+  position: relative;
   border-top: 2px solid rgb(0, 119, 245);
   margin-left: 40px;
   align-items: center;
+  justify-content: center;
 }
 
 .funding-logos.hum-micr {
-  max-width: 405px;
+  max-width: 420px;
 }
 
 .funding-logos.com-ed {
@@ -890,29 +892,39 @@ footer p {
 }
 
 .container-research img.logo-igi {
+  position: relative;
   height: 70px;
   width: auto;
+  left: -5px;
 }
 
 .container-research img.logo-shurl {
+  position: relative;
   height: 40px;
   width: auto;
+  left: -100px;
 }
 
 .container-research img.logo-m-cafe {
+  position: relative;
   height: 70px;
   width: auto;
+  left: -100px;
 }
 
 .container-research img.logo-lbl {
+  position: relative;
   height: 60px;
   width: auto;
   margin-left: 20px;
+  left: -110px;
 }
 
 .container-research img.logo_gmoore {
+  position: relative;
   height: 64px;
   width: auto;
+  left: -110px;
 }
 
 /*------------------------------------END RESEARCH PAGE-----------------------------------*/
